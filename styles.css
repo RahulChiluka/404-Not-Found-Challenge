@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+* {
+    font-family: 'Space Mono', monospace;
+    box-sizing: border-box;
+}
+
+html {
+    padding: 0 1rem;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+nav {
+    text-transform: uppercase;
+}
+
+main {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    max-width: 1440px;
+    margin: auto;
+}
+
+.imgmain {
+    display: flex;
+    justify-content: center;
+    margin: 2rem auto;
+    width: 75%;
+}
+
+.imgmain img {
+    width: 90%;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 3rem;
+    margin-bottom: 0.25rem;
+    max-width: 450px;
+}
+
+p {
+    font-size: 1.25rem;
+    max-width: 300px;
+}
+
+.btn {
+    display: inline-block;
+    align-self: flex-start;
+    background-color: #333;
+    color: #fff;
+    font-weight: 700;
+    font-size: 14px;
+    border: none;
+    padding: 1.5rem 2rem;
+    margin-top: 1rem;
+    font-family: inherit;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: background-color 500ms;
+}
+
+.btn:hover {
+    background-color: rgb(96, 95, 95);
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    padding: 1.5rem;
+    font-size: 0.9rem;
+    color: #a5a5a5;
+    line-height: 1rem;
+    position: relative;
+    top: 4rem;
+    bottom: 0;
+    margin-bottom: 0;
+}
+
+footer a {
+    font-weight: 700;
+    color: #838383;
+}

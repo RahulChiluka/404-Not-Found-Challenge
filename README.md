@@ -38,20 +38,18 @@
 
 ![screenshot](https://github.com/RahulChiluka/404-Not-Found-Challenge/blob/main/images/demo_ss.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+Above is a snapshot of the website hosted on github pages. It is an introductory level project on responsive web design.
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- Click on the demo link to view demo of the website.
+- Made a website that shows error 404 with an illustration. It was made with HTML and CSS with design made in Figma.
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML](https://html.com/)
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+- [FIGMA](https://www.figma.com/)
 
 ## Features
 
@@ -70,6 +68,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Email [rahul13_soe@jnu.ac.in]
+- GitHub [@RahulChiluka](https://github.com/RahulChiluka)

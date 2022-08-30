@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://www.github.com/RahulChiluka/404-Not-Found-Challenge/images/demo_ss.png)
+![screenshot](https://github.com/RahulChiluka/404-Not-Found-Challenge/blob/main/images/demo_ss.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
